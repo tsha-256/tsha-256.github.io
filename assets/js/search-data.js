@@ -409,51 +409,41 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-16-bit-risc-processor-layout",
+          title: '16-Bit RISC Processor Layout',
+          description: "Physical layout and floorplanning for a 16-bit RISC processor",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/16bit-risc-layout/";
+            },},{id: "projects-knn-accelerator",
+          title: 'KNN Accelerator',
+          description: "Bit-serial K-Nearest Neighbors accelerator",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/KNN-accelerator/";
+            },},{id: "projects-conductor-mhacks-2025",
+          title: 'Conductor — MHacks 2025',
+          description: "Hardware hack — Best Hardware Hack at MHacks 2025",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/conductor-mhacks-2025/";
+            },},{id: "projects-escape-mate-mhacks-2024",
+          title: 'Escape Mate — MHacks 2024',
+          description: "Interactive media project — MHacks 2024 (Interactive Media &amp; Gaming Track Winner)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/escape-mate-mhacks-2024/";
+            },},{id: "projects-lc2k-verilog-processor",
+          title: 'LC2K Verilog Processor',
+          description: "Verilog implementation of the LC2K instructional processor",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/lc2k-verilog/";
+            },},{id: "projects-mitre-ectf-2025-3rd-place",
+          title: 'MITRE eCTF 2025 — 3rd Place',
+          description: "Competition submission for MITRE eCTF 2025 (3rd place)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+              window.location.href = "/projects/mitre-ectf-2025/";
+            },},{id: "projects-out-of-order-n-way-superscalar-risc-v-processor",
+          title: 'Out-of-Order N-Way Superscalar RISC-V Processor',
+          description: "High-performance out-of-order N-way superscalar RISC-V core",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/out-of-order-nway-riscv/";
             },},{
         id: 'social-github',
         title: 'GitHub',
