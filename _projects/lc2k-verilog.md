@@ -3,8 +3,8 @@ layout: page
 title: LC2K Verilog Processor
 description: Verilog implementation of the LC2K instructional processor
 img: assets/img/lc2k-verilog.jpg
-importance: 4
-category: architecture
+importance: 5
+category: VLSI
 related_publications: false
 ---
 

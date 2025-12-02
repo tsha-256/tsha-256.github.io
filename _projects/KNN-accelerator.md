@@ -3,8 +3,8 @@ layout: page
 title: KNN Accelerator
 description: Bit-serial K-Nearest Neighbors accelerator 
 img: assets/img/KNN.jpg
-importance: 1
-category: architecture
+importance: 3
+category: VLSI
 related_publications: false
 ---
 

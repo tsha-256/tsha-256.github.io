@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of projects.
 nav: true
 nav_order: 3
-display_categories: [hackathon, architecture, VLSI, embedded]
+display_categories: [VLSI, embedded, hackathon]
 horizontal: false
 ---
 

@@ -3,8 +3,8 @@ layout: page
 title: Out-of-Order N-Way Superscalar RISC-V Processor
 description: High-performance out-of-order N-way superscalar RISC-V core
 img: assets/img/out-of-order-nway.jpg
-importance: 1
-category: architecture
+importance: 2
+category: VLSI
 related_publications: false
 ---
 

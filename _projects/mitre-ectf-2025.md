@@ -3,7 +3,7 @@ layout: page
 title: MITRE eCTF 2025 — 3rd Place
 description: Competition submission for MITRE eCTF 2025 (3rd place)
 img: assets/img/mitre-ectf-2025.jpg
-importance: 3
+importance: 1
 category: embedded
 related_publications: false
 ---
