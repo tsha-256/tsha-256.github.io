@@ -13,6 +13,7 @@ Conductor is a hardware-focused hack that won Best Hardware Hack at MHacks 2025.
 https://github.com/wenbox360/mhacks25
 
 Highlights
+
 - Award: Best Hardware Hack — MHacks 2025
 
 {% include figure.liquid path="assets/img/conductor-mhacks-2025.jpg" title="Conductor" class="img-fluid rounded" %}

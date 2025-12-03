@@ -24,4 +24,3 @@ latest_posts:
 ---
 
 Hello there! I'm Tanay Sharma, and I am studying ECE at the University of Michigan. I'm interested in chip design and computer architecture. I'm also involved in cybersecurity here at UM through WolvSec.
-

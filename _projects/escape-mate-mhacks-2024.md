@@ -15,6 +15,7 @@ Escape Mate is an interactive media project submitted to MHacks 2024. The projec
 https://github.com/wenbox360/Escape_Mate
 
 Awards
+
 - Winner — Interactive Media & Gaming Track, MHacks 2024
 
 {% include figure.liquid path="assets/img/escape-mate.jpg" title="Escape Mate" class="img-fluid rounded" %}

@@ -11,14 +11,14 @@ related_publications: false
 This project focuses on the physical layout for a compact 16-bit RISC processor, including floorplanning, placement, and routing. The design is built using the TSMC 65nm process.
 
 Custom layout blocks:
+
 - Register File
 - ALU
 - Up-Down Shifter
 
 RTL and synthesis blocks:
+
 - Decoder
 - Program Counter
-
-
 
 {% include figure.liquid path="assets/img/16bit-risc-layout.jpg" title="16-bit processor layout" class="img-fluid rounded" %}

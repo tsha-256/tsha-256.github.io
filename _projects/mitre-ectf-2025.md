@@ -19,6 +19,7 @@ Non-technical Role:
 I launched the team and petitioned the school for course credit. This was UMich's first year competing in the eCTF. I was a co-lead of a 30 person team. We placed 3rd out of 116 teams, beating seasoned teams such as UIUC, MIT, UCLA, IIT Madras, and more.
 
 Key Achievements
+
 - 3rd place in MITRE eCTF 2025
 - No successful attacks on our design (1 of 8 unattacked designs)
 
