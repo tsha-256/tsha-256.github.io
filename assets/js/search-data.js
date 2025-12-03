@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -398,20 +405,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-my-team-won-the-the-interactive-media-amp-amp-gaming-track-winner-at-mhacks-2024",
+          title: 'My team won the the Interactive Media &amp;amp;amp; Gaming Track Winner at MHacks...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-my-team-umich-won-3rd-place-in-this-year-s-mitre-embedded-ctf",
+          title: 'My team (UMich) won 3rd place in this year’s MITRE embedded CTF.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-my-team-won-the-best-hardware-hack-prize-at-mhacks-2025",
+          title: 'My team won the Best Hardware Hack prize at MHacks 2025.',
           description: "",
           section: "News",},{id: "projects-16-bit-risc-processor-layout",
           title: '16-Bit RISC Processor Layout',
-          description: "Physical layout and floorplanning for a 16-bit RISC processor",
+          description: "Physical design of a 16-bit RISC processor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/16bit-risc-layout/";
             },},{id: "projects-knn-accelerator",
@@ -421,17 +426,17 @@ ninja.data = [{
               window.location.href = "/projects/KNN-accelerator/";
             },},{id: "projects-conductor-mhacks-2025",
           title: 'Conductor — MHacks 2025',
-          description: "Hardware hack — Best Hardware Hack at MHacks 2025",
+          description: "Best Hardware Hack at MHacks 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/conductor-mhacks-2025/";
             },},{id: "projects-escape-mate-mhacks-2024",
           title: 'Escape Mate — MHacks 2024',
-          description: "Interactive media project — MHacks 2024 (Interactive Media &amp; Gaming Track Winner)",
+          description: "Interactive Media &amp; Gaming Track Winner",
           section: "Projects",handler: () => {
               window.location.href = "/projects/escape-mate-mhacks-2024/";
             },},{id: "projects-lc2k-verilog-processor",
           title: 'LC2K Verilog Processor',
-          description: "Verilog implementation of the LC2K instructional processor",
+          description: "Implementation of a 5-stage pipeline",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lc2k-verilog/";
             },},{id: "projects-mitre-ectf-2025-3rd-place",
@@ -439,8 +444,8 @@ ninja.data = [{
           description: "Competition submission for MITRE eCTF 2025 (3rd place)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mitre-ectf-2025/";
-            },},{id: "projects-out-of-order-n-way-superscalar-risc-v-processor",
-          title: 'Out-of-Order N-Way Superscalar RISC-V Processor',
+            },},{id: "projects-out-of-order-risc-v-core",
+          title: 'Out-of-Order RISC-V Core',
           description: "High-performance out-of-order N-way superscalar RISC-V core",
           section: "Projects",handler: () => {
               window.location.href = "/projects/out-of-order-nway-riscv/";
