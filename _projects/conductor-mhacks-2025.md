@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conductor — MHacks 2025
-description: Hardware hack — Best Hardware Hack at MHacks 2025
+description: Best Hardware Hack at MHacks 2025
 img: assets/img/conductor-mhacks-2025.jpg
 importance: 2
 category: hackathon

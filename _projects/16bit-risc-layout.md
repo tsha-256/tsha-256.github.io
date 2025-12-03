@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 16-Bit RISC Processor Layout
-description: Physical layout and floorplanning for a 16-bit RISC processor
+description: Physical design of a 16-bit RISC processor
 img: assets/img/16bit-risc-layout.jpg
 importance: 1
 category: VLSI
