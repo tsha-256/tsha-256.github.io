@@ -2,7 +2,7 @@
 layout: page
 title: LC2K Verilog Processor
 description: Implementation of a 5-stage pipeline
-img: assets/img/lc2k-verilog.jpg
+img: assets/img/lc2k.jpg
 importance: 5
 category: VLSI
 related_publications: false
@@ -12,4 +12,4 @@ This project contains a Verilog implementation of a 5-stage pipeline LC2K proces
 
 https://github.com/tsha-256/LC2K_Processor
 
-{% include figure.liquid path="assets/img/lc2k-verilog.jpg" title="LC2K Verilog" class="img-fluid rounded" %}
+{% include figure.liquid path="assets/img/lc2k.jpg" title="LC2K Verilog" class="img-fluid rounded" %}

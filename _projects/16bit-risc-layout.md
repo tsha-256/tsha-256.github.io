@@ -2,7 +2,7 @@
 layout: page
 title: 16-Bit RISC Processor Layout
 description: Physical design of a 16-bit RISC processor
-img: assets/img/16bit-risc-layout.jpg
+img: assets/img/layout.jpg
 importance: 1
 category: VLSI
 related_publications: false
@@ -21,4 +21,4 @@ RTL and synthesis blocks:
 - Decoder
 - Program Counter
 
-{% include figure.liquid path="assets/img/16bit-risc-layout.jpg" title="16-bit processor layout" class="img-fluid rounded" %}
+{% include figure.liquid path="assets/img/layout.jpg" title="16-bit processor layout" class="img-fluid rounded" %}

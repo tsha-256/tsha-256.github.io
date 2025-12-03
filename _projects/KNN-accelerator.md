@@ -2,7 +2,7 @@
 layout: page
 title: KNN Accelerator
 description: Bit-serial K-Nearest Neighbors accelerator
-img: assets/img/KNN.jpg
+img: assets/img/KNN.png
 importance: 3
 category: VLSI
 related_publications: false
@@ -14,4 +14,4 @@ This project was developed in SystemVerilog, simulated with VCS, and synthesized
 
 This project was completed as the final project for EECS 573: Microarchitecture at the University of Michigan in Fall 2025.
 
-{% include figure.liquid path="assets/img/KNN.jpg" title="KNN Accelerator" class="img-fluid rounded" %}
+{% include figure.liquid path="assets/img/KNN.png" title="KNN Accelerator" class="img-fluid rounded" %}

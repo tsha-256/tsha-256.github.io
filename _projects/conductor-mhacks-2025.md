@@ -2,7 +2,7 @@
 layout: page
 title: Conductor — MHacks 2025
 description: Best Hardware Hack at MHacks 2025
-img: assets/img/conductor-mhacks-2025.jpg
+img: assets/img/conductor.png
 importance: 2
 category: hackathon
 related_publications: false
@@ -16,4 +16,4 @@ Highlights
 
 - Award: Best Hardware Hack — MHacks 2025
 
-{% include figure.liquid path="assets/img/conductor-mhacks-2025.jpg" title="Conductor" class="img-fluid rounded" %}
+{% include figure.liquid path="assets/img/conductor.png" title="Conductor" class="img-fluid rounded" %}

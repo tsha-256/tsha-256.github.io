@@ -2,7 +2,7 @@
 layout: page
 title: Out-of-Order RISC-V Core
 description: High-performance out-of-order N-way superscalar RISC-V core
-img: assets/img/out-of-order-nway.jpg
+img: assets/img/processor.jpg
 importance: 2
 category: VLSI
 related_publications: false
@@ -14,4 +14,4 @@ This project was developed in SystemVerilog, simulated with VCS, and synthesized
 
 This project was completed as the final project for EECS 470: Computer Architecture at the University of Michigan in Winter 2025.
 
-{% include figure.liquid path="assets/img/out-of-order-nway.jpg" title="Out-of-order core overview" class="img-fluid rounded" %}
+{% include figure.liquid path="assets/img/processor.jpg" title="Out-of-order core overview" class="img-fluid rounded" %}

@@ -2,7 +2,7 @@
 layout: page
 title: MITRE eCTF 2025 — 3rd Place
 description: Competition submission for MITRE eCTF 2025 (3rd place)
-img: assets/img/mitre-ectf-2025.jpg
+img: assets/img/ectf.png
 importance: 1
 category: embedded
 related_publications: false
@@ -25,4 +25,4 @@ Key Achievements
 
 Add links to writeups, slides, and code repositories below.
 
-{% include figure.liquid path="assets/img/mitre-ectf-2025.jpg" title="MITRE eCTF 2025" class="img-fluid rounded" %}
+{% include figure.liquid path="assets/img/ectf.png" title="MITRE eCTF 2025" class="img-fluid rounded" %}

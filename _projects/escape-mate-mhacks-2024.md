@@ -2,7 +2,7 @@
 layout: page
 title: Escape Mate — MHacks 2024
 description: Interactive Media & Gaming Track Winner
-img: assets/img/escape-mate.jpg
+img: assets/img/escapeMateLogo.png
 importance: 1
 category: hackathon
 related_publications: false
@@ -18,4 +18,4 @@ Awards
 
 - Winner — Interactive Media & Gaming Track, MHacks 2024
 
-{% include figure.liquid path="assets/img/escape-mate.jpg" title="Escape Mate" class="img-fluid rounded" %}
+{% include figure.liquid path="assets/img/escapeMateLogo.png" title="Escape Mate" class="img-fluid rounded" %}
