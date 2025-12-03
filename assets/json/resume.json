@@ -16,13 +16,32 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Stealth",
+      "position": "Systems Engineering Intern",
+      "startDate": "2025-05",
+      "endDate": "2025-08",
+      "summary": "Developed system testing framework for internal validation and factory testing. Wrote embedded code to transmit data over UDP and speed up boot."
+    },
+    {
+      "name": "UMich CSE: Intoduction to Logic Design",
+      "position": "Instructional Aide",
+      "startDate": "2024-08",
+      "endDate": "Present",
+      "summary": "Instructed 600+ students in digital logic and Verilog design and test. Maintained website and autograder."
+    },
+    {
+      "name": "d-Matrix",
+      "position": "AI Hardware Intern",
+      "startDate": "2024-05",
+      "endDate": "2024-08",
+      "summary": "Designed RTL for calibrating D2D interconnects. Developed internal tools for generating memories."
+    },
+    {
+      "name": "UMich ECE: Quantum Engineering Lab",
+      "position": "Research Assistant",
+      "startDate": "2023-10",
+      "endDate": "2024-05",
+      "summary": "Refactored tooling codebase into Python and created unified control bench. Eliminated ~4 hours of runtime from data analysis program."
     }
   ],
   "education": [
@@ -48,21 +67,25 @@
       "date": "2024-08-09",
       "awarder": "University of Michigan College of Engineering",
       "summary": "Awarded to students who demonstrate academic excellence and leadership in engineering."
+    },
+    {
+      "title": "Dean's List",
+      "awarder": "University of Michigan College of Engineering",
+      "summary": "Received all semesters. Awarded based on academic excellence."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Computer Architecture",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": ["SystemVerilog", "Icarus Verilog", "ModelSim", "Verdi/VCS", "JasperGold"]
+    },
+    {
+      "name": "VLSI Design",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Design Compiler", "Yosys", "Innovus", "HSpice", "Virtuoso", "Custom layout"]
     }
   ],
   "languages": [
@@ -74,26 +97,32 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Chip Design",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": ["VLSI design", "Accelerator Design", "Processor Design", "Secure Architecture", "Low Power Systems", "Mixed Signal Design"]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Custom 16-bit RISC Processor",
+      "summary": "Custom 2-stage in-order pipeline processor. Custom layout for RF, ALU, shifter, PC, decoder.",
+      "highlights": ["EECS 427"],
+      "startDate": "2025-08",
+      "endDate": "2025-12"
+    },
+    {
+      "name": "Advanced Out-of-Order RISC-V Processor",
+      "summary": "R10K style CPU with out-of-order scheduling and N-way superscalar execution. Extra features include early branch resolution, LSQ, victim caches, G-share branch prediction, instruction prefetching.",
+      "highlights": ["EECS 427"],
+      "startDate": "2025-02",
+      "endDate": "2025-04"
+    },
+    {
+      "name": "Secure Embedded Satellite TV System",
+      "summary": "Designed system to send encrypted TV data only to authorized receivers. Attacked other university designs. Founded and led a team of 30 students.",
+      "highlights": ["3rd Place Winner at MITRE eCTF 2025"],
+      "startDate": "2025-01",
+      "endDate": "2025-04"
     }
   ]
 }
